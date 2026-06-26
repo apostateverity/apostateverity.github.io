@@ -1,0 +1,17 @@
+{
+  "name": "Apostate Verity",
+  "short_name": "Apostate Verity",
+  "start_url": "index.html",
+  "display": "fullscreen",
+  "background_color": "#231F20",
+  "theme_color": "#000000",
+  "description": "Apostate Verity browser demo",
+  "icons": [
+    {
+      "src": "TemplateData/unity-logo-dark.png",
+      "sizes": "154x130",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
